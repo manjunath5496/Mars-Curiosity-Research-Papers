@@ -24,5 +24,20 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/nps(13).pdf" style="text-decoration:none;">The Petrochemistry of Jake_M: A Martian Mugearite</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/nps(14).pdf" style="text-decoration:none;">Curiosity at Gale Crater, Mars: Characterization and Analysis of the Rocknest Sand Shadow</a></li>
-               
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/nps(15).pdf" style="text-decoration:none;">The atmosphere of Mars as observed by InSight</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/nps(16).pdf" style="text-decoration:none;">Constraints on the shallow elastic and anelastic structure of Mars from InSight seismic data</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/nps(17).pdf" style="text-decoration:none;">Initial results from the InSight mission on Mars</a></li>
+   
+    
+<li><a target="_blank" href="https://github.com/manjunath5496/Mars-Curiosity-Research-Papers/blob/master/nps(18).pdf" style="text-decoration:none;">Geology of the InSight Landing Site on Mars</a></li> 
+   
+   
+   
+   
+   
+   
+   
+   
 </ul>
